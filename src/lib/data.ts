@@ -13,38 +13,38 @@ export const playlists: Playlist[] = [
   {
     id: '1',
     albumId: 1,
-    title: "Chill Lo-Fi Music",
+    title: "Waiting for Underground",
     color: colors.yellow,
     cover:
       "https://vinyl.lofirecords.com/cdn/shop/products/VINYL_MORNING_COFFEE_4-min.png?v=1680526353",
-    artists: ["NoSpirit", "Casiio"],
+    artists: ["German k"],
   },
   {
     id: '2',
     albumId: 2,
-    title: "Lo-Fi Chill Session",
+    title: "Keep Moving",
     color: colors.green,
     cover:
       "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
-    artists: ["Kupla", "Blue Fox"],
+    artists: ["German k"],
   },
   {
     id: '3',
     albumId: 3,
-    title: "Study Session",
+    title: "Tell me what is love",
     color: colors.rose,
     cover:
       "https://f4.bcbits.com/img/a1435058381_65.jpg",
-    artists: ["Tenno", "xander", "Team Astro"],
+    artists: ["German k"],
   },
   {
     id: '4',
     albumId: 4,
-    title: "Blue Note Study Time",
+    title: "The funk fenonena",
     color: colors.blue,
     cover:
       "https://f4.bcbits.com/img/a1962013209_16.jpg",
-    artists: ["Raimu", "Yasumu"],
+    artists: ["German k"],
   },
   {
     id: '5',
@@ -96,7 +96,7 @@ export const songs: Song[] = [
   {
     "id": 1,
     "albumId": 1,
-    "title": "Moonlit Walk",
+    "title": "Waiting for Underground",
     "image": `https://vinyl.lofirecords.com/cdn/shop/products/VINYL_MORNING_COFFEE_4-min.png?v=1680526353`,
     "artists": ["LoFi Dreamer"],
     "album": "Chill Lo-Fi Music",
